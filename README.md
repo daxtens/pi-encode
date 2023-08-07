@@ -1,6 +1,8 @@
 piencode
 ========
 
+**a toy project only** (I will probably never update this.)
+
 What would a file be like if we encoded it as pairs of (offset, length) into 4 billion bits of pi?
 
 In order to get about twice as much value out of our random digits, as well as searching through the
